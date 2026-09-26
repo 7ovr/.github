@@ -2,16 +2,17 @@
 
 <img src="./logo.png" alt="7Ovr" width="72" height="72" />
 
-<h3>7Ovr</h3>
+<h1>7Ovr</h1>
 
-<p>shadcn/ui blocks and page templates, built on Base UI.</p>
+<p><strong>shadcn/ui blocks and page templates, built on Base UI.</strong></p>
 
 <p>
   <a href="https://7ovr.com">Website</a> ·
   <a href="https://7ovr.com/blocks">Blocks</a> ·
   <a href="https://7ovr.com/templates">Templates</a> ·
   <a href="https://7ovr.com/docs">Docs</a> ·
-  <a href="https://x.com/7ovrui">X</a>
+  <a href="https://x.com/7ovrui">X</a> ·
+  <a href="mailto:hello@7ovr.com">Email</a>
 </p>
 
 </div>
@@ -32,6 +33,3 @@ pnpm dlx shadcn@latest add @7ovr/hero-1
 | :--- | :--- | :--- |
 | **[7Ovr&nbsp;Starter](https://github.com/7ovr/shadcn-vite-starter)**<br /><sub>[starter.7ovr.com](https://starter.7ovr.com)</sub> | A free React starter with the whole stack already wired: routing, data, forms and tables, tested, linted and ready for coding agents. | Vite, React, TanStack, shadcn/ui on Base UI, TypeScript |
 
-<br />
-
-<sub>Questions or ideas? Write to <a href="mailto:hello@7ovr.com">hello@7ovr.com</a> or find me on X at <a href="https://x.com/7ovrui">@7ovrui</a>.</sub>
