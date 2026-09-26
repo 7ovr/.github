@@ -20,7 +20,7 @@ Built on Base UI. Works with the shadcn/ui CLI and presets.</p>
 
 <br />
 
-**[7Ovr](https://7ovr.com)** is a registry of 589 shadcn/ui blocks in 56 categories, from hero sections and pricing tables to dashboards and chat interfaces, plus 24 full-page templates. 243 blocks and 4 templates are free under MIT-0, and the rest are Pro. Every block installs as readable source you own, with no registry to configure:
+**[7Ovr](https://7ovr.com)** is a registry of 589 shadcn/ui blocks in 56 categories, from hero sections and pricing tables to dashboards and chat interfaces, plus 24 full-page templates. 243 blocks and 4 templates are free under MIT-0, and the rest are Pro. Every block installs as readable source you own, and free blocks need no setup at all:
 
 ```bash
 pnpm dlx shadcn@latest add @7ovr/hero-1
