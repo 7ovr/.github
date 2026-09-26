@@ -4,7 +4,8 @@
 
 <h1>7Ovr</h1>
 
-<p><strong>shadcn/ui Blocks and Page Templates, Built on Base UI</strong></p>
+<p><strong>A collection of shadcn/ui blocks and page templates for building modern, fast, and beautiful websites.</strong><br />
+Built on Base UI. Works with the shadcn/ui CLI and presets.</p>
 
 <p>
   <a href="https://7ovr.com">Website</a> ·
