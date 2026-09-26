@@ -30,7 +30,7 @@ pnpm dlx shadcn@latest add @7ovr/hero-1
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[7Ovr Starter](https://github.com/7ovr/shadcn-vite-starter)**<br /><sub>[starter.7ovr.com](https://starter.7ovr.com)</sub> | A free React starter with the whole stack already wired: routing, data, forms and tables, tested, linted and ready for coding agents. | Vite, React, TanStack, shadcn/ui on Base UI, TypeScript |
+| **[7Ovr&nbsp;Starter](https://github.com/7ovr/shadcn-vite-starter)**<br /><sub>[starter.7ovr.com](https://starter.7ovr.com)</sub> | A free React starter with the whole stack already wired: routing, data, forms and tables, tested, linted and ready for coding agents. | Vite, React, TanStack, shadcn/ui on Base UI, TypeScript |
 
 <br />
 
