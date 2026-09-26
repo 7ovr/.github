@@ -2,9 +2,9 @@
 
 <img src="./logo.png" alt="7Ovr" width="72" height="72" />
 
-<h1>7Ovr</h1>
+<h3>7Ovr</h3>
 
-<p><strong>shadcn/ui blocks and page templates, built on Base UI.</strong></p>
+<p>shadcn/ui blocks and page templates, built on Base UI.</p>
 
 <p>
   <a href="https://7ovr.com">Website</a> ·
@@ -18,17 +18,19 @@
 
 <br />
 
-**[7Ovr](https://7ovr.com)** is a registry of 589 shadcn/ui blocks across 56 categories, from hero sections and pricing tables to dashboards and chat UIs, plus 24 full-page templates. 243 blocks and 4 templates are free under MIT-0; the rest are Pro.
+**[7Ovr](https://7ovr.com)** is a registry of 589 shadcn/ui blocks across 56 categories, from hero sections and pricing tables to dashboards and chat UIs, plus 24 full-page templates. 243 blocks and 4 templates are free under MIT-0; the rest are Pro. `@7ovr` is in the official shadcn directory, so there is no registry to set up:
 
 ```bash
 pnpm dlx shadcn@latest add @7ovr/hero-1
 ```
 
-No registry setup: `@7ovr` is in the official shadcn directory. Every block has a live preview, and the Customize panel turns your theme, fonts, radius and icon library into a preset the CLI applies on install.
+<br />
 
-### Open source
+#### Open source
 
-**[shadcn-vite-starter](https://github.com/7ovr/shadcn-vite-starter)**: a free React starter with the whole stack already wired. Vite, TanStack Router, Query, Form and Table, shadcn/ui on Base UI and strict TypeScript, tested, linted and ready for coding agents. [starter.7ovr.com](https://starter.7ovr.com)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[7Ovr Starter](https://github.com/7ovr/shadcn-vite-starter)**<br /><sub>[starter.7ovr.com](https://starter.7ovr.com)</sub> | A free React starter with the whole stack already wired: routing, data, forms and tables, tested, linted and ready for coding agents. | Vite, React, TanStack, shadcn/ui on Base UI, TypeScript |
 
 <br />
 
