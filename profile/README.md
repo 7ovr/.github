@@ -33,4 +33,5 @@ pnpm dlx shadcn@latest add @7ovr/hero-1
 | Project | Website | Description | Stack |
 | :--- | :--- | :--- | :--- |
 | [7Ovr&nbsp;Starter](https://github.com/7ovr/shadcn-vite-starter) | [starter.7ovr.com](https://starter.7ovr.com) | A free, open-source React starter with routing, data fetching, forms and tables already wired. Tested, linted and ready for coding agents. | Vite, React, TanStack, shadcn/ui on Base UI, TypeScript |
+| [7Ovr&nbsp;Landing&nbsp;Starter](https://github.com/7ovr/shadcn-next-starter) | [landing.7ovr.com](https://landing.7ovr.com) | A free, open-source Next.js landing page starter. Static pages, complete SEO and accessible sections, tested with Playwright and Lighthouse and ready for coding agents. | Next.js, React, shadcn/ui on Base UI, TypeScript |
 
